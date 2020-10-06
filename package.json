@@ -1,0 +1,29 @@
+{
+  "name": "rxjs-study",
+  "version": "1.0.0",
+  "description": "Projeto para estudos de RxJS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eusougz/rxjs-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eusougz/rxjs-study/issues"
+  },
+  "homepage": "https://github.com/eusougz/rxjs-study#readme",
+  "dependencies": {
+    "rxjs": "^6.6.3",
+    "rxjs-compat": "^6.6.3",
+    "ts-loader": "^8.0.4",
+    "typescript": "^4.0.3",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
