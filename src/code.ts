@@ -1,5 +1,3 @@
-import { Observable } from "rxjs";
-import { share } from "rxjs/operators";
 
 function addItem(val: any) {
   var node = document.createElement("li");
